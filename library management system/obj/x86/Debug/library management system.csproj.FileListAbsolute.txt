@@ -1,0 +1,30 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\bin\Debug\library management system.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\bin\Debug\library management system.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\obj\x86\Debug\library_management_system.Form1.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\obj\x86\Debug\library_management_system.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\obj\x86\Debug\library management system.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\obj\x86\Debug\library management system.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\obj\x86\Debug\library management system.pdb
+C:\Users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\obj\x86\Debug\library management system.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\obj\x86\Debug\library_management_system.Form2.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\obj\x86\Debug\library_management_system.Form3.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\obj\x86\Debug\library_management_system.dashboard.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\library management system\library management system\obj\x86\Debug\library_management_system.Add_Book.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library management system.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library management system.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\bin\Debug\library management system.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\bin\Debug\library management system.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library management system.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.Add_Book.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.dashboard.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.Form2.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.Form3.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library management system.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.viewbook.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.addstudent.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.viewstudent.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.issuebook.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.return_book.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\sample library management system\library management system\obj\x86\Debug\library_management_system.completedata.resources
